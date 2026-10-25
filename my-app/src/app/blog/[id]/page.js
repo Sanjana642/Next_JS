@@ -11,4 +11,4 @@ const SingleArticlePage = async ({ params }) => {
     );
 };
 
-export default SingleArticlePage;
+export default SingleArticlePage; 
